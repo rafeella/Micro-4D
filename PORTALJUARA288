@@ -123,12 +123,12 @@
 
         body {
             font-family: var(--font-body);
-            background: url('https://cialisvy.com/img/portaljuara288.png') center/cover fixed var(--base-black);
+            background: url('https://cialisvy.com/img/portal-juara288ku.png') center/cover fixed var(--base-black);
             background-image:
                 radial-gradient(ellipse 120% 80% at 50% -20%, color-mix(in srgb, var(--brand-purple) 12%, transparent), transparent 55%),
                 radial-gradient(ellipse 80% 50% at 100% 100%, color-mix(in srgb, var(--purple-dark) 15%, transparent), transparent 50%),
                 linear-gradient(165deg, color-mix(in srgb, var(--base-black) 85%, transparent) 0%, color-mix(in srgb, var(--surface-dark) 85%, transparent) 45%, color-mix(in srgb, var(--base-black) 85%, transparent) 100%),
-                url('https://cialisvy.com/img/portaljuara288.png');
+                url('https://cialisvy.com/img/portal-juara288ku.png');
             background-size: cover;
             background-attachment: fixed;
             background-position: center;
@@ -859,7 +859,7 @@
             <figure class="feature">
                 <div class="feature__frame">
                     <div class="feature__inner">
-                        <amp-img alt="JUARA288" height="500" layout="responsive" src="https://cialisvy.com/img/portaljuara288.png"
+                        <amp-img alt="JUARA288" height="500" layout="responsive" src="https://cialisvy.com/img/portal-juara288ku.png"
                             width="500"></amp-img>
                     </div>
                 </div>
