@@ -14,14 +14,14 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/images/icon.png" />
 <link rel="manifest" href="https://assets.bonanza.com/site.webmanifest" />
 <link rel="mask-icon" href="/images/icon.png" color="#335749" />
-<link rel="canonical" href="https://www.anacim.sn/spip.php?mot4">
+<link rel="canonical" href="https://www.anacim.sn/">
 <link rel="amphtml" href="https://www.anacim.sn/climat/">
 <link rel="alternate" hreflang="id-id" href="https://www.anacim.sn/climat/"/>
 <link rel="alternate" href="https://www.anacim.sn/climat/"/>
 <link rel="alternate" hreflang="id" href="https://www.anacim.sn/climat/"/>
 <link rel="alternate" hreflang="en" href="https://www.anacim.sn/climat/"/>
 <link rel="alternate" hreflang="x-default" href="https://www.anacim.sn/climat/"/>
-<link rel="alternate" href="https://www.anacim.sn/spip.php?mot4" media="only screen and (max-width: 640px)" />
+<link rel="alternate" href="https://www.anacim.sn/" media="only screen and (max-width: 640px)" />
 <meta name="msapplication-TileColor" content="#335749" />
 <meta name="theme-color" content="#ffffff" />
   <meta name="keywords" content="asupantoto, asupantoto game, link asupantoto, boba toto, asupantoto login">
@@ -34,14 +34,14 @@
   <meta name="author" content="ASUPANTOTO">
   <meta property="og:locale" content="id_ID">
   <meta property="og:type" content="website">
-  <meta itemprop="url" content="https://www.anacim.sn/spip.php?mot4" />
+  <meta itemprop="url" content="https://www.anacim.sn/" />
     <meta itemprop="quantity" content="1" />
     <meta itemprop="availability" content="in_stock" />
   <!-- open graph tags for FB & Pinterest -->
   <meta property="og:type" content="product" />
   <meta property="og:site_name" content="ASUPANTOTO" />
   <meta property="og:title" content="ASUPANTOTO | Panduan Temukan Link Slot Gacor Malam Ini 2026 Terbaru" />
-  <meta property="og:url" content="https://www.anacim.sn/spip.php?mot4" />
+  <meta property="og:url" content="https://www.anacim.sn/" />
   <meta property="og:price:currency" content="GBP" />
   <meta property="og:availability" content="instock" />
   <meta property="og:image" content="/images/banner.jpg" />
@@ -52,7 +52,7 @@
   <meta property="product:retailer_item_id" content="1662053325" />
     <meta property="product:condition" content="New with box" />
     <meta property="product:brand" content="ASUPANTOTO" />
-  <meta property="wanelo:store:url" content="https://www.anacim.sn/spip.php?mot4" />
+  <meta property="wanelo:store:url" content="https://www.anacim.sn/" />
   <meta property="wanelo:store:name" content="ASUPANTOTO" />
     <meta name="twitter:card" content="product">
   <meta name="twitter:site" content="@ASUPANTOTO">
@@ -328,7 +328,7 @@ ga("ec:setAction", "detail");
   "SKU": null,
   "Categories": ["ASUPANTOTO","JUARA 288","ASUPANTOTO LOGIN"],
   "ImageURL": "/images/banner.jpg",
-  "URL": "https://www.anacim.sn/spip.php?mot4",
+  "URL": "https://www.anacim.sn/",
   "Brand": "ASUPANTOTO",
 
   "Price": 25.49
@@ -340,7 +340,7 @@ klaviyo.push(["trackViewedItem", {
   "ItemId": "1662053325",
   "Categories": ["ASUPANTOTO","JUARA 288","ASUPANTOTO LOGIN"],
   "ImageUrl": "/images/banner.jpg",
-  "Url": "https://www.anacim.sn/spip.php?mot4",
+  "Url": "https://www.anacim.sn/",
   "Metadata": {
     "Brand": "ASUPANTOTO",
 
@@ -362,7 +362,7 @@ klaviyo.push(["trackViewedItem", {
       xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
 
       var params = "h=" + encodeURIComponent(window.location.href) +
-        "&r=" + encodeURIComponent("https://www.anacim.sn/spip.php?mot4") +
+        "&r=" + encodeURIComponent("https://www.anacim.sn/") +
         "&u=" + encodeURIComponent("") +
         "&m=" + encodeURIComponent("GET") +
         "&p=" + encodeURIComponent("ASUPANTOTO | Panduan Temukan Link Slot Gacor Malam Ini 2026 Terbaru") +
@@ -381,12 +381,12 @@ klaviyo.push(["trackViewedItem", {
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://www.anacim.sn/spip.php?mot4#organization",
+      "@id": "https://www.anacim.sn/#organization",
       "name": "ASUPANTOTO",
-      "url": "https://www.anacim.sn/spip.php?mot4",
+      "url": "https://www.anacim.sn/",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://www.anacim.sn/spip.php?mot4assets/img/logo.png"
+        "url": "https://www.anacim.sn/assets/img/logo.png"
       },
       "contactPoint": {
         "@type": "ContactPoint",
@@ -412,15 +412,15 @@ klaviyo.push(["trackViewedItem", {
     },
     {
       "@type": "WebApplication",
-      "@id": "https://www.anacim.sn/spip.php?mot4#webapp",
+      "@id": "https://www.anacim.sn/#webapp",
       "name": "ASUPANTOTO | Portal Login Slot Online Terbaru 2026",
-      "url": "https://www.anacim.sn/spip.php?mot4",
+      "url": "https://www.anacim.sn/",
       "applicationCategory": "GameApplication",
       "operatingSystem": "All",
       "browserRequirements": "Requires JavaScript and HTML5 support",
       "description": "ASUPANTOTO merupakan platform penyedia portal login slot online yang menghadirkan informasi link slot gacor malam ini dan slot gacor hari ini terbaru 2026. Portal ini menyediakan informasi akses, panduan penggunaan, kategori permainan, serta layanan bantuan melalui tampilan yang responsif dan mudah digunakan.",
       "publisher": {
-        "@id": "https://www.anacim.sn/spip.php?mot4#organization"
+        "@id": "https://www.anacim.sn/#organization"
       },
       "aggregateRating": {
         "@type": "AggregateRating",
@@ -505,31 +505,31 @@ klaviyo.push(["trackViewedItem", {
     },
     {
       "@type": "WebPage",
-      "@id": "https://www.anacim.sn/spip.php?mot4#webpage",
-      "url": "https://www.anacim.sn/spip.php?mot4",
+      "@id": "https://www.anacim.sn/#webpage",
+      "url": "https://www.anacim.sn/",
       "name": "ASUPANTOTO | Panduan Temukan Link Slot Gacor Malam Ini 2026 Terbaru",
       "description": "ASUPANTOTO merupakan platform penyedia portal login slot online yang hadir untuk menawarkan link slot gacor hari ini terbaru 2026.",
       "inLanguage": "id-ID",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://www.anacim.sn/spip.php?mot4#website",
-        "url": "https://www.anacim.sn/spip.php?mot4",
+        "@id": "https://www.anacim.sn/#website",
+        "url": "https://www.anacim.sn/",
         "name": "ASUPANTOTO"
       },
       "about": {
-        "@id": "https://www.anacim.sn/spip.php?mot4#webapp"
+        "@id": "https://www.anacim.sn/#webapp"
       },
       "publisher": {
-        "@id": "https://www.anacim.sn/spip.php?mot4#organization"
+        "@id": "https://www.anacim.sn/#organization"
       },
       "mainEntity": {
-        "@id": "https://www.anacim.sn/spip.php?mot4#faq"
+        "@id": "https://www.anacim.sn/#faq"
       }
     },
     {
       "@type": "FAQPage",
-      "@id": "https://www.anacim.sn/spip.php?mot4#faq",
-      "url": "https://www.anacim.sn/spip.php?mot4",
+      "@id": "https://www.anacim.sn/#faq",
+      "url": "https://www.anacim.sn/",
       "inLanguage": "id-ID",
       "mainEntity": [
         {
@@ -599,7 +599,7 @@ klaviyo.push(["trackViewedItem", {
 
 
         <li class="help header_top_level_menu_item has_children">
-          <a href="https://www.anacim.sn/spip.php?mot4">Help<i class="fa fa-angle-down inline_icon"></i></a>
+          <a href="https://www.anacim.sn/">Help<i class="fa fa-angle-down inline_icon"></i></a>
 
           <div class="header_subnav_menu">
             <div class="header_secondary_level_menu section">
@@ -852,49 +852,49 @@ klaviyo.push(["trackViewedItem", {
         <ul class="header_top_level_menu">
 
             <li class="header_top_level_menu_item">
-                <a href="https://www.anacim.sn/spip.php?mot4">
+                <a href="https://www.anacim.sn/">
                    ASUPANTOTO
                 </a>
             </li>
 
             <li class="header_top_level_menu_item">
-                <a href="https://www.anacim.sn/spip.php?mot4">
+                <a href="https://www.anacim.sn/">
                     ASUPANTOTO ONLINE
                 </a>
             </li>
 
             <li class="header_top_level_menu_item">
-                <a href="https://www.anacim.sn/spip.php?mot4">
+                <a href="https://www.anacim.sn/">
                     JUARA 288
                 </a>
             </li>
 
             <li class="header_top_level_menu_item">
-                <a href="https://www.anacim.sn/spip.php?mot4">
+                <a href="https://www.anacim.sn/">
                     SITUS ASUPANTOTO
                 </a>
             </li>
 
             <li class="header_top_level_menu_item">
-                <a href="https://www.anacim.sn/spip.php?mot4">
+                <a href="https://www.anacim.sn/">
                     ASUPANTOTO LOGIN
                 </a>
             </li>
 
             <li class="header_top_level_menu_item">
-                <a href="https://www.anacim.sn/spip.php?mot4">
+                <a href="https://www.anacim.sn/">
                     ASUPANTOTO ALTERNATIF
                 </a>
             </li>
 
             <li class="header_top_level_menu_item">
-                <a href="https://www.anacim.sn/spip.php?mot4">
+                <a href="https://www.anacim.sn/">
                     ASUPANTOTO RESMI
                 </a>
             </li>
 
             <li class="header_top_level_menu_item">
-                <a href="https://www.anacim.sn/spip.php?mot4">
+                <a href="https://www.anacim.sn/">
                     SITUS ASUPANTOTO
                 </a>
             </li>
@@ -954,7 +954,7 @@ klaviyo.push(["trackViewedItem", {
         <span class="responsive_header_menu_button"></span>
         <span class="responsive_header_menu_button close_button is_hidden"></span>
 
-        <a title="Shop for everything but the ordinary. More than 25,000 sellers offering you a vibrant collection of fashion, collectibles, home decor, and more." href="https://www.anacim.sn/spip.php?mot4"><img class="link_to_home" alt="ASUPANTOTO" data-retina="true" src="/images/logo.gif" /></a>
+        <a title="Shop for everything but the ordinary. More than 25,000 sellers offering you a vibrant collection of fashion, collectibles, home decor, and more." href="https://www.anacim.sn/"><img class="link_to_home" alt="ASUPANTOTO" data-retina="true" src="/images/logo.gif" /></a>
       </div>
 
       <div class="responsive_header_links_container">
@@ -995,7 +995,7 @@ klaviyo.push(["trackViewedItem", {
     <div class="menu_section_content">
 
         <div class="menu_section_expandable_link" data-category-name="ASUPANTOTO">
-          <a href="https://www.anacim.sn/spip.php?mot4">ASUPANTOTO</a>
+          <a href="https://www.anacim.sn/">ASUPANTOTO</a>
 
           <div class="expansion_toggle_container">
             <div class="expansion_toggle closed"><i class="fa fa-angle-right inline_icon"></i></div>
@@ -1067,7 +1067,7 @@ klaviyo.push(["trackViewedItem", {
 </ul></div>
         </div>
         <div class="menu_section_expandable_link" data-category-name="mens_fashion">
-          <a href="https://www.anacim.sn/spip.php?mot4">ASUPANTOTO LOGIN</a>
+          <a href="https://www.anacim.sn/">ASUPANTOTO LOGIN</a>
 
           <div class="expansion_toggle_container">
             <div class="expansion_toggle closed"><i class="fa fa-angle-right inline_icon"></i></div>
@@ -1136,7 +1136,7 @@ klaviyo.push(["trackViewedItem", {
 </ul></div>
         </div>
         <div class="menu_section_expandable_link" data-category-name="ASUPANTOTO">
-          <a href="https://www.anacim.sn/spip.php?mot4">SITUS ASUPANTOTO</a>
+          <a href="https://www.anacim.sn/">SITUS ASUPANTOTO</a>
 
           <div class="expansion_toggle_container">
             <div class="expansion_toggle closed"><i class="fa fa-angle-right inline_icon"></i></div>
@@ -1202,7 +1202,7 @@ klaviyo.push(["trackViewedItem", {
 </ul></div>
         </div>
         <div class="menu_section_expandable_link" data-category-name="health_and_beauty">
-          <a href="https://www.anacim.sn/spip.php?mot4">ASUPANTOTO LINK</a>
+          <a href="https://www.anacim.sn/">ASUPANTOTO LINK</a>
 
           <div class="expansion_toggle_container">
             <div class="expansion_toggle closed"><i class="fa fa-angle-right inline_icon"></i></div>
@@ -1274,7 +1274,7 @@ klaviyo.push(["trackViewedItem", {
 </ul></div>
         </div>
         <div class="menu_section_expandable_link" data-category-name="collectibles">
-          <a href="https://www.anacim.sn/spip.php?mot4">OFFICIAL ASUPANTOTO</a>
+          <a href="https://www.anacim.sn/">OFFICIAL ASUPANTOTO</a>
 
           <div class="expansion_toggle_container">
             <div class="expansion_toggle closed"><i class="fa fa-angle-right inline_icon"></i></div>
@@ -1290,7 +1290,7 @@ klaviyo.push(["trackViewedItem", {
           <a href="/art">Art</a>
         </li>
         <li class="expandable_submenu_list_item">
-          <a href="https://www.anacim.sn/spip.php?mot4">Collectibles</a>
+          <a href="https://www.anacim.sn/">Collectibles</a>
         </li>
         <li class="expandable_submenu_list_item">
           <a href="/antiques">Antiques</a>
@@ -1316,7 +1316,7 @@ klaviyo.push(["trackViewedItem", {
 </ul></div>
         </div>
         <div class="menu_section_expandable_link" data-category-name="handbags">
-          <a class="link_to_search" href="https://www.anacim.sn/spip.php?mot4">ASUPANTOTO RESMI</a>
+          <a class="link_to_search" href="https://www.anacim.sn/">ASUPANTOTO RESMI</a>
 
           <div class="expansion_toggle_container">
             <div class="expansion_toggle closed"><i class="fa fa-angle-right inline_icon"></i></div>
@@ -1352,7 +1352,7 @@ klaviyo.push(["trackViewedItem", {
 </ul></div>
         </div>
         <div class="menu_section_expandable_link" data-category-name="jewelry">
-          <a href="https://www.anacim.sn/spip.php?mot4">ASUPANTOTO</a>
+          <a href="https://www.anacim.sn/">ASUPANTOTO</a>
 
           <div class="expansion_toggle_container">
             <div class="expansion_toggle closed"><i class="fa fa-angle-right inline_icon"></i></div>
@@ -1518,7 +1518,7 @@ klaviyo.push(["trackViewedItem", {
           <li><a href="https://www.anacim.sn/climat/">Start Selling Online</a></li>
 
         <li><a href="https://support.bonanza.com/hc/en-us">Help Center</a></li>
-        <li><a href="https://www.anacim.sn/spip.php?mot4">Contact Support</a></li>
+        <li><a href="https://www.anacim.sn/">Contact Support</a></li>
         <li><a href="/about_us">About Bonanza</a></li>
         <li><a href="/blog">Blog</a></li>
       </ul>
@@ -1547,9 +1547,9 @@ klaviyo.push(["trackViewedItem", {
   <div class="text">
     <h4>Quality items from Bonanza’s top-rated sellers.</h4>
     <p>
-      <a class="link_to_profile" href="https://www.anacim.sn/spip.php?mot4">mapledeals's booth</a> earned a 97.5% satisfaction rating for providing an excellent experience
+      <a class="link_to_profile" href="https://www.anacim.sn/">mapledeals's booth</a> earned a 97.5% satisfaction rating for providing an excellent experience
       from start to finish.
-      <a href="https://www.anacim.sn/spip.php?mot4">View booth >></a>
+      <a href="https://www.anacim.sn/">View booth >></a>
     </p>
   </div>
 </div>
@@ -1568,12 +1568,12 @@ klaviyo.push(["trackViewedItem", {
 
 
   <div class="item_listing_back_link">
-    <a href="https://www.anacim.sn/spip.php?mot4"><i class="fa fa-angle-left inline_icon"></i> Back to search results</a>
+    <a href="https://www.anacim.sn/"><i class="fa fa-angle-left inline_icon"></i> Back to search results</a>
   </div>
 
   <div class="item_listing_breadcrumbs">
-    <div id="breadcrumb"><a href="https://www.anacim.sn/spip.php?mot4">ASUPANTOTO</a> &raquo;
-<a href="https://www.anacim.sn/spip.php?mot4">ASUPANTOTO LOGIN</a> &raquo; <a href="https://www.anacim.sn/spip.php?mot4">SITUS ASUPANTOTO</a> &raquo;
+    <div id="breadcrumb"><a href="https://www.anacim.sn/">ASUPANTOTO</a> &raquo;
+<a href="https://www.anacim.sn/">ASUPANTOTO LOGIN</a> &raquo; <a href="https://www.anacim.sn/">SITUS ASUPANTOTO</a> &raquo;
 <strong>ASUPANTOTO | Panduan Temukan Link Slot Gacor Malam Ini 2026 Terbaru</strong></div>
   </div>
 
@@ -1589,7 +1589,7 @@ klaviyo.push(["trackViewedItem", {
   <div class="zoom_event_container"><i class="fa fa-search-plus inline_icon zoom_icon fa-flip-horizontal"></i></div>
   <div class="zoom_cursor_container"><div class="zoom_cursor"></div></div>
 
-  <a title="Show full-size image of ASUPANTOTO | Panduan Temukan Link Slot Gacor Malam Ini 2026 Terbaru" href="https://www.anacim.sn/spip.php?mot4"><img itemprop="image" alt="Full-size item image" src="/images/banner.jpg" /></a>
+  <a title="Show full-size image of ASUPANTOTO | Panduan Temukan Link Slot Gacor Malam Ini 2026 Terbaru" href="https://www.anacim.sn/"><img itemprop="image" alt="Full-size item image" src="/images/banner.jpg" /></a>
 
 </div>
 
@@ -2404,7 +2404,7 @@ klaviyo.push(["trackViewedItem", {
         <li class="footer_links_menu_item"><a target="_blank" href="https://darwin.affiliatewindow.com/merchant-profile/6238">Affiliates</a></li>
         <li class="footer_links_menu_item"><a href="https://api.bonanza.com/">API</a></li>
         <li class="footer_links_menu_item"><a href="/blog/selling">Selling Blog</a> / <a href="/blog/shopping">Shopping Blog</a></li>
-        <li class="footer_links_menu_item"><a href="https://www.anacim.sn/spip.php?mot4">Contact ASUPANTOTO</a></li>
+        <li class="footer_links_menu_item"><a href="https://www.anacim.sn/">Contact ASUPANTOTO</a></li>
         <li class="footer_links_menu_item"><a href="https://support.bonanza.com/hc/en-us">Help</a></li>
 <!--        <li class="footer_links_menu_item"></li>-->
         <li class="footer_links_menu_item"><a href="/site_help/general/legal_content">Legal</a></li>
@@ -2466,10 +2466,10 @@ klaviyo.push(["trackViewedItem", {
 
     <ul class="footer_legal">
   <li>&copy; 2026 Bonanza. All Rights Reserved By ASUPANTOTO</li>
-  <li><a href="https://www.anacim.sn/spip.php?mot4">Cookies and Tracking</a></li>
-  <li><a href="https://www.anacim.sn/spip.php?mot4">Accessibility</a></li>
-  <li><a href="https://www.anacim.sn/spip.php?mot4">Privacy Policy</a></li>
-  <li><a href="https://www.anacim.sn/spip.php?mot4">Terms of Use</a></li>
+  <li><a href="https://www.anacim.sn/">Cookies and Tracking</a></li>
+  <li><a href="https://www.anacim.sn/">Accessibility</a></li>
+  <li><a href="https://www.anacim.sn/">Privacy Policy</a></li>
+  <li><a href="https://www.anacim.sn/">Terms of Use</a></li>
 </ul>
 
   </div>
